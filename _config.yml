@@ -1,0 +1,12 @@
+# Site settings
+title: Pankaj Painting & Services
+email: pankaj-email@domain.com
+description: > # this means to ignore newlines until "baseurl:"
+  Painting, Cleaning and other household services provided by Pankaj in bangalore
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://pankaj.hurreh.com" # the base hostname & protocol for your site
+twitter_username: pankaj-twitter
+github_username:
+
+# Build settings
+markdown: kramdown
